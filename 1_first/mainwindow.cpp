@@ -12,7 +12,7 @@ MainWindow::MainWindow(QWidget *parent)
     student = new Student(this);
 
     connect(school, SIGNAL(sendMessages()), student, SLOT(comeBackToClass()));
-    emit school->sendMessages();
+    emit school->sendMessages();//发送信号，触发comebBackToClass()
 
 }
 
