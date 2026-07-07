@@ -1,0 +1,5 @@
+QCheckBox{background-color:rgb(0, 128, 125)}
+QCheckBox::indicator:unchecked {image:url(:/unchecked.png)}
+QCheckBox::indicator:checked {image:url(:/checked.png)}
+QCheckBox::indicator:indeterminate {image:url(:/indeterminate.png)}
+

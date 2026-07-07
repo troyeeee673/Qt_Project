@@ -1,0 +1,9 @@
+D:/QT_Project/8_Qdialog/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/8_Qdialog.dir
+D:/QT_Project/8_Qdialog/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/edit_cache.dir
+D:/QT_Project/8_Qdialog/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/rebuild_cache.dir
+D:/QT_Project/8_Qdialog/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/list_install_components.dir
+D:/QT_Project/8_Qdialog/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/install.dir
+D:/QT_Project/8_Qdialog/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/install/local.dir
+D:/QT_Project/8_Qdialog/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/install/strip.dir
+D:/QT_Project/8_Qdialog/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/8_Qdialog_autogen_timestamp_deps.dir
+D:/QT_Project/8_Qdialog/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/CMakeFiles/8_Qdialog_autogen.dir

@@ -1,0 +1,24 @@
+# ninja log v7
+3	1004	8038934105047735	7_QLineEdit_autogen/timestamp	b44f6f7735297ee4
+3	1004	8038934105047735	7_QLineEdit_autogen/mocs_compilation.cpp	b44f6f7735297ee4
+3	1004	8038934105047735	D:/QT_Project/7_QLineEdit/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/7_QLineEdit_autogen/timestamp	b44f6f7735297ee4
+3	1004	8038934105047735	D:/QT_Project/7_QLineEdit/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/7_QLineEdit_autogen/mocs_compilation.cpp	b44f6f7735297ee4
+1008	1182	8038934107172985	7_QLineEdit_autogen/EWIEGA46WW/qrc_res.cpp	fc6335260ba17211
+1008	1182	8038934107172985	D:/QT_Project/7_QLineEdit/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/7_QLineEdit_autogen/EWIEGA46WW/qrc_res.cpp	fc6335260ba17211
+1282	1501	8038934108260837	CMakeFiles/7_QLineEdit.dir/7_QLineEdit_autogen/EWIEGA46WW/qrc_res.cpp.obj	c536bcc0c3fc450f
+1182	2762	8038934107327105	CMakeFiles/7_QLineEdit.dir/7_QLineEdit_autogen/mocs_compilation.cpp.obj	7bcb8b4a1d2cdb1d
+1259	2825	8038934108068794	CMakeFiles/7_QLineEdit.dir/main.cpp.obj	2d73667fa2d491f0
+5	449	8038935770288163	7_QLineEdit_autogen/timestamp	b44f6f7735297ee4
+5	449	8038935770288163	7_QLineEdit_autogen/mocs_compilation.cpp	b44f6f7735297ee4
+5	449	8038935770288163	D:/QT_Project/7_QLineEdit/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/7_QLineEdit_autogen/timestamp	b44f6f7735297ee4
+5	449	8038935770288163	D:/QT_Project/7_QLineEdit/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/7_QLineEdit_autogen/mocs_compilation.cpp	b44f6f7735297ee4
+450	2054	8038935770775148	CMakeFiles/7_QLineEdit.dir/7_QLineEdit_autogen/mocs_compilation.cpp.obj	7bcb8b4a1d2cdb1d
+463	2089	8038935770845228	CMakeFiles/7_QLineEdit.dir/main.cpp.obj	2d73667fa2d491f0
+477	2164	8038935771034646	CMakeFiles/7_QLineEdit.dir/mainwindow.cpp.obj	3bb3095ea3448e02
+2164	2677	8038935787923869	7_QLineEdit.exe	c05c77f6238764aa
+5	193	8038936228996129	7_QLineEdit_autogen/timestamp	b44f6f7735297ee4
+5	193	8038936228996129	7_QLineEdit_autogen/mocs_compilation.cpp	b44f6f7735297ee4
+5	193	8038936228996129	D:/QT_Project/7_QLineEdit/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/7_QLineEdit_autogen/timestamp	b44f6f7735297ee4
+5	193	8038936228996129	D:/QT_Project/7_QLineEdit/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/7_QLineEdit_autogen/mocs_compilation.cpp	b44f6f7735297ee4
+194	1471	8038936230881453	CMakeFiles/7_QLineEdit.dir/mainwindow.cpp.obj	3bb3095ea3448e02
+1471	1685	8038936243660089	7_QLineEdit.exe	c05c77f6238764aa

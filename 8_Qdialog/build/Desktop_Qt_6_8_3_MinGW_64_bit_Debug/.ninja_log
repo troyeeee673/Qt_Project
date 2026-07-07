@@ -1,0 +1,15 @@
+# ninja log v7
+3	662	8051390181816959	8_Qdialog_autogen/timestamp	b11c72e3026afffa
+3	662	8051390181816959	8_Qdialog_autogen/mocs_compilation.cpp	b11c72e3026afffa
+3	662	8051390181816959	D:/QT_Project/8_Qdialog/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/8_Qdialog_autogen/timestamp	b11c72e3026afffa
+3	662	8051390181816959	D:/QT_Project/8_Qdialog/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/8_Qdialog_autogen/mocs_compilation.cpp	b11c72e3026afffa
+669	2248	8051390182544231	CMakeFiles/8_Qdialog.dir/8_Qdialog_autogen/mocs_compilation.cpp.obj	46a56c7f75ad2d42
+684	2271	8051390182680102	CMakeFiles/8_Qdialog.dir/main.cpp.obj	bce0a12f51fea3a5
+700	2358	8051390182852389	CMakeFiles/8_Qdialog.dir/mainwindow.cpp.obj	df1de50a5cf97d3
+2358	2584	8051390199436775	8_Qdialog.exe	cdf529a42cc017b9
+5	167	8051391003868478	8_Qdialog_autogen/timestamp	b11c72e3026afffa
+5	167	8051391003868478	8_Qdialog_autogen/mocs_compilation.cpp	b11c72e3026afffa
+5	167	8051391003868478	D:/QT_Project/8_Qdialog/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/8_Qdialog_autogen/timestamp	b11c72e3026afffa
+5	167	8051391003868478	D:/QT_Project/8_Qdialog/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/8_Qdialog_autogen/mocs_compilation.cpp	b11c72e3026afffa
+167	1475	8051391005489340	CMakeFiles/8_Qdialog.dir/mainwindow.cpp.obj	df1de50a5cf97d3
+1475	1678	8051391018565030	8_Qdialog.exe	cdf529a42cc017b9

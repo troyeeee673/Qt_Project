@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>login.png</file>
+        <file>pulldown.png</file>
+        <file>style.qss</file>
+    </qresource>
+</RCC>

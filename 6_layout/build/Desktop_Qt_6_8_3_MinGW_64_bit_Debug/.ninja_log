@@ -1,0 +1,21 @@
+# ninja log v7
+2	589	8038860306909717	6_layout_autogen/timestamp	1826137fbb915fbb
+2	589	8038860306909717	6_layout_autogen/mocs_compilation.cpp	1826137fbb915fbb
+2	589	8038860306909717	D:/QT_Project/6_layout/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/6_layout_autogen/timestamp	1826137fbb915fbb
+2	589	8038860306909717	D:/QT_Project/6_layout/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/6_layout_autogen/mocs_compilation.cpp	1826137fbb915fbb
+594	1981	8038860307382145	CMakeFiles/6_layout.dir/6_layout_autogen/mocs_compilation.cpp.obj	98cb30cf6912586
+604	2010	8038860307495413	CMakeFiles/6_layout.dir/main.cpp.obj	8451a2d6c2f9796e
+616	2114	8038860307607734	CMakeFiles/6_layout.dir/mainwindow.cpp.obj	221a48566a8604a5
+2114	2339	8038860322598315	6_layout.exe	8856383869cac75c
+5	192	8038862646392207	6_layout_autogen/timestamp	1826137fbb915fbb
+5	192	8038862646392207	6_layout_autogen/mocs_compilation.cpp	1826137fbb915fbb
+5	192	8038862646392207	D:/QT_Project/6_layout/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/6_layout_autogen/timestamp	1826137fbb915fbb
+5	192	8038862646392207	D:/QT_Project/6_layout/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/6_layout_autogen/mocs_compilation.cpp	1826137fbb915fbb
+193	1454	8038862648322845	CMakeFiles/6_layout.dir/mainwindow.cpp.obj	221a48566a8604a5
+1454	1677	8038862660930661	6_layout.exe	8856383869cac75c
+6	186	8038862801891224	6_layout_autogen/timestamp	1826137fbb915fbb
+6	186	8038862801891224	6_layout_autogen/mocs_compilation.cpp	1826137fbb915fbb
+6	186	8038862801891224	D:/QT_Project/6_layout/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/6_layout_autogen/timestamp	1826137fbb915fbb
+6	186	8038862801891224	D:/QT_Project/6_layout/build/Desktop_Qt_6_8_3_MinGW_64_bit_Debug/6_layout_autogen/mocs_compilation.cpp	1826137fbb915fbb
+187	1426	8038862803697970	CMakeFiles/6_layout.dir/mainwindow.cpp.obj	221a48566a8604a5
+1426	1636	8038862816094423	6_layout.exe	8856383869cac75c
