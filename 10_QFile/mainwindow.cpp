@@ -49,6 +49,5 @@ void MainWindow::on_pushButton_2_clicked()
     file.write(ui->textEdit->toPlainText().toUtf8());
     file.close();
     ui->textEdit->clear();
-
 }
 
