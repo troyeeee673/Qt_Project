@@ -1,0 +1,14 @@
+# Qt CMake构建目录
+build/
+# Qt Creator本地配置
+**.user
+.qtcreator/
+# 编译生成exe、obj、缓存
+*.exe
+*.obj
+*.o
+*.ninja
+CMakeCache.txt
+cmake_install.cmake
+# 自动生成中间文件
+_autogen/
