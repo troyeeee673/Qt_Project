@@ -69,6 +69,10 @@ void MainWindow::on_pushButton_3_clicked()
 {
     //这里使用list容器接收客户端的数据，因为可能有多个客户端
     QList<QTcpSocket*> socketList = tcpServer->findChildren<QTcpSocket *>();
+    if(socketList.count() == 0){
+        ui->textBrowser->append("没有客户端连接");
+        return ;
+    }
     foreach(QTcpSocket *tmpTcpSocket, socketList)
     {
         //服务端向每个客户端发送消息
